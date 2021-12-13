@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kedarkshatriya94
+- 👋 Hi, I’m kedar kshatriya
 - 👀 I’m interested in ML, AI, Visualization Tools.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ML projects
